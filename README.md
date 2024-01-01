@@ -1,0 +1,2 @@
+# genuary
+Generative art challenges 🎨
